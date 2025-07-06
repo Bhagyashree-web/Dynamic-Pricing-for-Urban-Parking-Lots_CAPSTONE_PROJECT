@@ -60,7 +60,7 @@ This project builds an intelligent **real-time dynamic pricing system** for 14 p
                     📊 Pricing Output
 
 
-📁 dynamic-parking-pricing/
+📁 dynamic-parking-pricing-for-Urban-Parking-Lots/
 ├── images/
 │   └── architecture.png  ← Upload architecture diagram here
 💡 Models Implemented
